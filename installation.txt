@@ -7,3 +7,4 @@ pip install djangorestframework
 pip install drf-nested-routers
 pip install djoser
 pip install djangorestframework_simplejwt
+pip install pillow
