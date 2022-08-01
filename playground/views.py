@@ -21,7 +21,7 @@ def say_hello(request):
 
     try:
         message = BaseEmailMessage(
-            template_name='playground/emails/temp.html',
+            template_name='emails/temp.html',
             context={'name': 'Mohamad'},
         )
         message.send(['ali.tt.com'])
