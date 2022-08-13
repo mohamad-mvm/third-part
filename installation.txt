@@ -8,4 +8,5 @@ pip install drf-nested-routers
 pip install djoser
 pip install djangorestframework_simplejwt
 pip install pillow
+pip install django-cors-headers
 pip install django-templated-mail
